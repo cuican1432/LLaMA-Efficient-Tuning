@@ -152,5 +152,23 @@
       "response": "",
       "history": ""
     }
+  },
+  "abtester": {
+    "file_name": "abtester.txt",
+    "columns": {
+      "prompt": "text",
+      "query": "",
+      "response": "",
+      "history": ""
+    }
+  },
+  "hippo": {
+    "file_name": "hippo.txt",
+    "columns": {
+      "prompt": "text",
+      "query": "",
+      "response": "",
+      "history": ""
+    }
   }
 }
