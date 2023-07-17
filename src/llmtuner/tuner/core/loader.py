@@ -19,7 +19,8 @@ from llmtuner.extras.misc import prepare_model_for_training, print_trainable_par
 from llmtuner.extras.save_and_load import load_valuehead_params
 from llmtuner.hparams import ModelArguments, FinetuningArguments
 from llmtuner.tuner.core.adapter import init_adapter
-
+from huggingface_hub import login
+login(token='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')
 
 logger = get_logger(__name__)
 

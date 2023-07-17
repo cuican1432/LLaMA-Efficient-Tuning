@@ -170,5 +170,14 @@
       "response": "",
       "history": ""
     }
+  },
+"ab_qa": {
+    "file_name": "ab_qa.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "",
+      "response": "output",
+      "history": ""
+    }
   }
 }
